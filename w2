@@ -11,7 +11,7 @@ if ( (a%400==0)||(a%4==0 && a%100!=0))
 }
 else
 {
-    cout << a << "is not leap year!";
+    cout << a << " is not leap year!";
 
 
     
